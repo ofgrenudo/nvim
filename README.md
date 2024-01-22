@@ -6,6 +6,10 @@ Note, this is still in its experimental phases. Currently, to use my config file
 - Curl or Git (for treesitter)
 - A C compiler in your path with libstdc++ (for treesitter please visit their github and read Quickstart/Requirements)
 
+## Installation
+
+On windows, you will want to clone this folder into `~\AppData\Local\`
+
 ## Usage
 
 Ctrl + N        Opens the file browser.
