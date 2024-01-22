@@ -8,6 +8,9 @@ Note, this is still in its experimental phases. Currently, to use my config file
 
 ## Installation
 
+> [!TIP]
+> Windows makes it a pain to get gcc or cc installed. Just install zig and your good to go!
+
 On windows, you will want to clone this folder into `~\AppData\Local\`
 
 ## Usage
