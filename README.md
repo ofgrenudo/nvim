@@ -8,10 +8,11 @@ Note, this is still in its experimental phases. Currently, to use my config file
 
 ## Installation
 
-> [!TIP]
-> Windows makes it a pain to get gcc or cc installed. Just install zig and your good to go!
-
-On windows, you will want to clone this folder into `~\AppData\Local\`
+1. Install Neovim with `winget install neovim`.
+2. Install Zig by downloading it from their website and then Extracting it to a folder and updating your $PATH.
+3. Download and Install a Nerdfont (preferably for me the Agave font)
+4. Configure Windows Terminal (wt.exe) with the Nerdfont as default ([or use my conf here](https://github.com/ofgrenudo/confs/blob/main/configurations/wt_conf.json))
+5. Navigate into `~\AppData\Local\` and `git clone https://github.com/ofgrenudo/nvim.git`
 
 ## Usage
 
